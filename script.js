@@ -20,14 +20,15 @@ $(document).ready(function(){
                   PhoneNumber:{
                     required:true,
                     number:true,
-                    minlength:10
+                    minlength:10,
+                      maxlength:10
  
                   }, 
                  
                   message:{ 
                    required:true,
                    minlength:40,
-                   noSpace:true
+                   
            }  
           }
           })
