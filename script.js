@@ -27,7 +27,7 @@ $(document).ready(function(){
                  
                   message:{ 
                    required:true,
-                   minlength:40,
+                   minlength:10,
                    
            }  
           }
