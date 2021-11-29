@@ -23,13 +23,14 @@ $(document).ready(function(){
                     number:true,
                     minlength:10,
                     maxlength:10
- 
+                     
                   }, 
                  
                   message:{ 
                    required:true,
                    minlength:10,
                   
+
            }  
           }
           })
