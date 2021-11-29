@@ -36,6 +36,5 @@ $(document).ready(function(){
           })
        })
  
-       $('#submitbutton').on('click', function() {
-         $("#submit-form").valid();
-     });
+      
+    
